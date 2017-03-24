@@ -1,8 +1,11 @@
-# Yilee
+# 李小姐专用仓库
 
-李小姐专用仓库
+咦，居然上v2ex了： [分享一个有趣的仓库 李小姐使用手册 https://github.com/cnfeat/Yilee - V2EX](https://www.v2ex.com/t/339963#reply27)
 
-收集李小姐的行为数据
+大家好，我建个这个仓库的目的非常简单，起初是与大妈协作，有大妈协作手册 https://github.com/GC4WP/S07E15gDAMA/wiki/HbDamaUsage （唯一公开版），忽然萌生为女票做一个使用手册，让她去修订的，并非是大多数想象中的苦苦的默默的观望的单恋的故事， anyway 其实现实真有这样的故事还真挺好的，我也祝福。
+
+
+路过的狗，不要怪我，你们自己跑上来的。
 
 * [光阴的故事](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639252&idx=1&sn=bbf78e3ed807f77a04fc9bd10a5d98c6&chksm=879dc0bbb0ea49adf31cb4bb6b3307472f08bdc6d443ee77c3b2bf23929d131315e0dd90e8c1&scene=4#wechat_redirect)
 * [雷电月圆丨千金难抵万般疼爱（六）](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=402595311&idx=1&sn=3f85645bc76610a765bd3968a493dcc1&scene=4#wechat_redirect)
